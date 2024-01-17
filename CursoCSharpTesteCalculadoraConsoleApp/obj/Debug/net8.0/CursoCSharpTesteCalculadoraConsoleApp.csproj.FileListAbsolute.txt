@@ -1,0 +1,14 @@
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\bin\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.exe
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\bin\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.deps.json
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\bin\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.runtimeconfig.json
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\bin\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.dll
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\bin\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.pdb
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.AssemblyInfo.cs
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.dll
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\refint\CursoCSharpTesteCalculadoraConsoleApp.dll
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.pdb
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.genruntimeconfig.cache
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\ref\CursoCSharpTesteCalculadoraConsoleApp.dll
