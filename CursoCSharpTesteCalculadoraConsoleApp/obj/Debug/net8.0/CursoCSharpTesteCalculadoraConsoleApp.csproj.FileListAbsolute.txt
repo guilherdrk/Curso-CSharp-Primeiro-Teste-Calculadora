@@ -12,3 +12,4 @@ C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSh
 C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.pdb
 C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.genruntimeconfig.cache
 C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\ref\CursoCSharpTesteCalculadoraConsoleApp.dll
+C:\Users\Guibe\OneDrive\Documentos\Estudos\Testes CSharp\Primeiro Teste\CursoCSharpTesteCalculadoraConsoleApp\obj\Debug\net8.0\CursoCSharpTesteCalculadoraConsoleApp.sourcelink.json
