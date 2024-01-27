@@ -1,6 +1,4 @@
 ﻿Console.WriteLine("Seja Bem vindo a Calculadora");
-//Receber dois valores
-//Solicitar dois valores para o usuario digitar
 
 do
 {
@@ -15,7 +13,7 @@ do
     Console.WriteLine($"O valor digitado foi {primeiroValor} e o segundo foi {segundoValor}");
 
 
-    //Dar opções de calculo
+
 
     Console.WriteLine("Selecione a operação");
     Console.WriteLine("+");
@@ -24,7 +22,6 @@ do
     Console.WriteLine("/");
     var operacaoSelecionada = Console.ReadLine();
 
-    //Realizar o calculo
 
     double? resultadoOperacao;
     switch (operacaoSelecionada)
@@ -51,10 +48,10 @@ do
  
     }
     Console.WriteLine(" ");
-    if(resultadoOperacao is null)
-        Console.WriteLine($"Resultado da operação é: {resultadoOperacao}");
-    else
-        Console.WriteLine("Operação invalida!");
+    // if(resultadoOperacao is null)
+    //     Console.WriteLine($"Resultado da operação é: {resultadoOperacao}");
+    // else
+    //     Console.WriteLine("Operação invalida!");
     
     var mensagem = resultadoOperacao.HasValue ? $"Resultado da operação é: {resultadoOperacao}" :  "Operação invalida!";
     Console.WriteLine(mensagem);
@@ -65,8 +62,7 @@ do
 
 Console.WriteLine();
 Console.WriteLine("Até logo!!");
-//Exibir o resultado
-//Finalizar a aplicação
+
 
 
 

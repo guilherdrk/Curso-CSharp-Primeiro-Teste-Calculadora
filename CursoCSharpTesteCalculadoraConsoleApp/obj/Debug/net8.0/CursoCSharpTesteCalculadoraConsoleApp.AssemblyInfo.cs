@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CursoCSharpTesteCalculadoraConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+943817f42717754eb925ea9066cb4da39ce73fef")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursoCSharpTesteCalculadoraConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CursoCSharpTesteCalculadoraConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
